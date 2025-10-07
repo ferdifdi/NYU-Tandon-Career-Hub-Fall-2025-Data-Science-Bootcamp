@@ -4,6 +4,10 @@ Welcome to the official repository for the **NYU Tandon Career Hub Data Science 
 Here you’ll find everything you need to follow along with the course **lecture materials, homework assignments, datasets, and solutions** organized week by week.  
 
 ---
+## 👨🏻‍🎓 Student
+**Ferdi Fadillah**\
+Graduate Student, MS in Computer Engineering'27, NYU  
+---
 
 ## 📚 What’s Inside
 - **Lectures** → Slides and Jupyter notebooks for each week  
